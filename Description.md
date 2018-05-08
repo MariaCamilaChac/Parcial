@@ -6,8 +6,7 @@ the varible that the user give us. With a cycle the numbers are generated from h
 of the list we going to enqueue, at the same time the number of the find index in the method it's going to be eliminated.
 
 #Dual Issues
-this class use a merge sort for order the prime numbers more easy and a method for find the prime numbers use the mod operator 
-Then when find the two last numbers we multiplicate both, if we find just one, we multiplicate the highest number for him self
+this class use a merge sort for order the prime numbers more easy and a method for find the prime numbers use the mod operator. Then when find the two last numbers we multiplicate both, if we find just one, we multiplicate the highest number for him self
 And that is the return of the program.
 
 #Zulu and alarm clock
@@ -17,3 +16,5 @@ in this class uses the arrays like main method, to get the numbers of the clocks
 method is to go through all the submatrices and find xor off all the elements in that submatrix. we start with all methods, one od them is find de max value of the submatrix. calling the other two methods one of them insert the values by connections (all of this operations was with bits operators), for operate we uses all operators with XOR if the resul is = 0 or = 1 and comparates for add an index. then in the main we for each array we will find out value of the maximum xor subarray, and finally find out maximum of all those.
 
 #Decreasing max partitioning
+I work with arrays and with operator mod for divide or patitioning the array en find the numbers thath i can divide the array, one of the
+conditional is the first number that the user index it's going to be the fisr in the partitioning, another condition is the second number of the partition must be less than the first and consecutively. 
