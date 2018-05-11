@@ -88,7 +88,7 @@ public class zuluAndGames {
 		
 		for (int i = 0; i < level; i++) {
 			
-			game.enqueue(new zuluAndGames(Integer.parseInt(lowLevel[i]),Integer.parseInt(hightLevel[i])));
+			game.enqueue(new zuluAndGames(Integer.parseInt(lowLevel[i]),Integer.parseInt(hightLevel[i]))); //enqueue the numbers
 			
 		}
 		
